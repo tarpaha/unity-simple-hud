@@ -1,0 +1,9 @@
+/*.csproj
+/*.sln
+/Dist
+/Library
+/obj
+/Temp
+/UnityPackageManager
+/.idea
+/Assets/Plugins*
